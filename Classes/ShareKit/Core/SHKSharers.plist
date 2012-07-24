@@ -4,31 +4,19 @@
 <dict>
 	<key>actions</key>
 	<array>
-		<string>SHKPhotoAlbum</string>
 		<string>SHKCopy</string>
 		<string>SHKMail</string>
-		<string>SHKPrint</string>
 		<string>SHKSafari</string>
 		<string>SHKTextMessage</string>
-		<string>SHKLogout</string>
 	</array>
 	<key>services</key>
 	<array>
 		<string>SHKReadability</string>
-		<string>SHKEvernote</string>
-		<string>SHKDelicious</string>
-		<string>SHKTwitter</string>
-		<string>SHKDiigo</string>
-		<string>SHKPinboard</string>
-		<string>SHKGoogleReader</string>
-		<string>SHKFacebook</string>
-		<string>SHKVkontakte</string>
 		<string>SHKReadItLater</string>
 		<string>SHKInstapaper</string>
-		<string>SHKTumblr</string>
-		<string>SHKFlickr</string>
-		<string>SHKLinkedIn</string>
-		<string>SHKFoursquareV2</string>
+		<string>SHKEvernote</string>
+		<string>SHKFacebook</string>
+		<string>SHKTwitter</string>
 	</array>
 </dict>
 </plist>
